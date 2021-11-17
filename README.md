@@ -1,5 +1,6 @@
 # pyon-osu-skins
 REMAKES DE LAS SKINS DE PYON
+Inpiración: ![x_x](https://user-images.githubusercontent.com/47835359/142226399-8ec0985b-c9e1-4e8e-b1ca-b4afe2f20d75.png)
 
 # [pyon 17-12-2014](https://cdn.discordapp.com/attachments/794903981340098560/910544856387043398/pyon_17-12-2014.osk)
 Source: https://youtu.be/NFIKjBzy75s
