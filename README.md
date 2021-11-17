@@ -2,7 +2,6 @@
 REMAKES DE LAS SKINS DE PYON
 
 # [pyon 17-12-2014](https://cdn.discordapp.com/attachments/794903981340098560/910544856387043398/pyon_17-12-2014.osk)
-![](https://cdn.discordapp.com/attachments/794903981340098560/910545186738823208/unknown.png)
 ![](https://cdn.discordapp.com/attachments/794903981340098560/910545369023250482/unknown.png)
 
 # [pyon 27-03-2014 www.fraps.com](https://cdn.discordapp.com/attachments/788633035532271647/910272311087743006/pyon_27-03-2014_www.fraps.com.osk)
