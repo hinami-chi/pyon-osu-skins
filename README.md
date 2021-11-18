@@ -26,6 +26,10 @@ missing items: selection-mods.png
 Source: https://youtu.be/NFIKjBzy75s
 ![](https://cdn.discordapp.com/attachments/794903981340098560/910545369023250482/unknown.png)
 
+# [pyon 25-09-2014](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2025-09-2014.osk)
+Source: https://youtu.be/Kn1_ceOwews
+![image](https://user-images.githubusercontent.com/47835359/142479782-b0100592-7cd0-4f48-9887-2f9d62de5e8b.png)
+
 # [pyon 27-03-2014 www.fraps.com](https://cdn.discordapp.com/attachments/788633035532271647/910272311087743006/pyon_27-03-2014_www.fraps.com.osk)
 fraps [scorebar-bg](https://cdn.discordapp.com/attachments/788623051477614604/910272553870831706/unknown.png)
 
