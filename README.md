@@ -12,7 +12,7 @@ missing items: selection-mods.png, sectionpass.wav
 # [pyon 30-06-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2030-06-2015.osk)
 Source: https://youtu.be/XBrbdEYnYkA
 
-missing items: selection-mods.png, sectionpass.wav
+missing items: sectionpass.wav
 
 ![image](https://user-images.githubusercontent.com/47835359/142348617-285adee0-e102-4f96-aaa4-d98a05d453e2.png)
 
