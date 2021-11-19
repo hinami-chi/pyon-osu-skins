@@ -4,7 +4,7 @@ REMAKES DE LAS SKINS DE PYON
 # [pyon 15-08-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2015-08-2015.osk)
 Source: https://youtu.be/Z_geUBrUsMc
 
-missing items: selection-mods.png, sectionpass.wav
+missing items: sectionpass.wav
 
 ![image](https://user-images.githubusercontent.com/47835359/142480277-e5dde768-cf61-4a7e-b713-ba84454ab2f3.png)
 
@@ -12,7 +12,7 @@ missing items: selection-mods.png, sectionpass.wav
 # [pyon 30-06-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2030-06-2015.osk)
 Source: https://youtu.be/XBrbdEYnYkA
 
-missing items: sectionpass.wav
+missing items: sectionpass.wav, spinnerbonus.wav
 
 ![image](https://user-images.githubusercontent.com/47835359/142348617-285adee0-e102-4f96-aaa4-d98a05d453e2.png)
 
