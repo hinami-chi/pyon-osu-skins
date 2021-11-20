@@ -1,7 +1,7 @@
 # pyon-osu-skins
 REMAKES DE LAS SKINS DE PYON
 
-# [pyon 15-08-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2015-08-2015.rar)
+# [pyon 15-08-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2015-08-2015.osk)
 Source: https://youtu.be/Z_geUBrUsMc
 
 missing items: sectionpass.wav
