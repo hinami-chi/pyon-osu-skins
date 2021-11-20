@@ -23,14 +23,12 @@ missing items: sectionpass.wav, spinnerbonus.wav
 # [pyon 05-03-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2005-03-2015.osk)
 Source: https://youtu.be/a5bJT2ytT88
 
-missing items: selection-mods.png, sectionpass.wav
+missing items: sectionpass.wav
 
 ![image](https://user-images.githubusercontent.com/47835359/142354554-6c5c9ac0-f479-40f6-9c68-f02df74bf091.png)
 
 # [pyon 22-12-2014](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2022-12-2014.osk)
 Source: https://youtu.be/b6lG3aXeauE
-
-missing items: selection-mods.png
 
 ![](https://user-images.githubusercontent.com/47835359/142238084-bd88884b-f014-4bc2-865f-c7e50fabd6ce.png)
 
