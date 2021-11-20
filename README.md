@@ -1,6 +1,10 @@
 # pyon-osu-skins
 REMAKES DE LAS SKINS DE PYON
 
+# [Rucker_170408+(full)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/Rucker_170408%2B(full).osk)
+Sources: https://youtu.be/OxojIkx1SJQ, https://www.osuskins.me/skin/rucker-170408-full-1141
+![image](https://user-images.githubusercontent.com/47835359/142733615-f11c09ca-0c31-43eb-b800-1a6d4e36e045.png)
+
 # [pyon 15-08-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2015-08-2015.osk)
 Source: https://youtu.be/Z_geUBrUsMc
 
