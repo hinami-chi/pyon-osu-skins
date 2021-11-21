@@ -5,10 +5,13 @@ REMAKES DE LAS SKINS DE PYON
 Sources: https://youtu.be/OxojIkx1SJQ, https://www.osuskins.me/skin/rucker-170408-full-1141
 ![image](https://user-images.githubusercontent.com/47835359/142733615-f11c09ca-0c31-43eb-b800-1a6d4e36e045.png)
 
+# [pyon 15-06-2017](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2015-06-2017.osk)
+Source: https://www.twitch.tv/videos/151946669
+![image](https://user-images.githubusercontent.com/47835359/142759530-8e8f3c3f-e20f-491f-8735-232b1ada2afd.png)
+
 # [pyon 18-05-2017](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2018-05-2017.osk)
 Source: https://www.twitch.tv/videos/144887087
 ![image](https://user-images.githubusercontent.com/47835359/142735268-e299bb1b-7f90-48d4-a658-54b03e6cea63.png)
-
 
 # [pyon 15-08-2015 (WIP)](https://github.com/hinami-chi/pyon-osu-skins/raw/main/pyon%2015-08-2015.osk)
 Source: https://youtu.be/Z_geUBrUsMc
